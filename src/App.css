@@ -1,0 +1,7 @@
+/*Como todo o nosso projeto é no centro da tela, posso colocar na classe geral*/
+.App {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
